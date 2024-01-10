@@ -1,7 +1,8 @@
 ### Hi there 👋 My name is Vladislav
 
+<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="" width="40" height="40"/> 
 
-- :wrench: <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="" width="20" height="20"/> I’m a Python backend developer,
+- :wrench: I’m a Python backend developer,
 - :books: learning Go,
 - :ru: originally from Russia and live in Russia
 
@@ -11,29 +12,43 @@ Take a look at my latest projetcs.
 
 ### 1) Api for parsers:
 
-<code>![](https://img.shields.io/badge/Celery-5.3.6-green) ![](https://img.shields.io/badge/Redis-red) ![](https://img.shields.io/badge/Django-5.0-pink) ![](https://img.shields.io/badge/Django_REST-3.14.0-pink)</code>
+<code>![](https://img.shields.io/badge/Celery-5.3.6-green) ![](https://img.shields.io/badge/Redis-red) ![](https://img.shields.io/badge/Django-5.0-lightgreen) ![](https://img.shields.io/badge/Django_REST-3.14.0-lightgreen) ![](https://img.shields.io/badge/Aiohttp-3.9.1-violet) ![](https://img.shields.io/badge/AsyncIO-3.4.3-violet)</code> 
 
-#### <code>[Blog parser](https://github.com/iriskin77/Drf_api_parsers)</code>
+#### <code>[Blog parsers with API (Django REST)](https://github.com/iriskin77/Drf_api_parsers)</code>
 
-+ The parser collects data from sites, puts into db. After that we can take the data by api
++ The parsers collect data (articles) from such blogs as habr.com, mel.fm, tinkoff-journal. After that it is possinle to use the data via API.
 
 ### 2) Parsers that work as a cli application:
 
-<code>![](https://img.shields.io/badge/Sqlalchemy-2.0.25-blue) ![](https://img.shields.io/badge/APScheduler-3.10.4-blue) ![](https://img.shields.io/badge/Selenium-4.16.0-blue)</code>
+<code>![](https://img.shields.io/badge/Sqlalchemy-2.0.25-brown) ![](https://img.shields.io/badge/APScheduler-3.10.4-blue) ![](https://img.shields.io/badge/Selenium-4.16.0-blue) ![](https://img.shields.io/badge/Aiohttp-3.9.1-violet) ![](https://img.shields.io/badge/AsyncIO-3.4.3-violet)</code>
 
 #### <code>[News parser](https://github.com/iriskin77/y_p)</code>
 
-+ The parser collects news from news sites (yandex dzen and others)
++ The parser collects news from yandex dzen and comsomolskaya pravda.
 
-### 3) Simple parsers:
+### 3) NLP (natural learning processing), machine learning
 
-<code>![](https://img.shields.io/badge/BeautifullSoup-4.12.2-blue) ![](https://img.shields.io/badge/Requests-2.31.0-blue)</code>
+![](https://img.shields.io/badge/Keras-2.15.0-lightblue) ![](https://img.shields.io/badge/Pandas-2.1.4-white) ![](https://img.shields.io/badge/Pymystem3-0.2.0-yellow)
+
+#### <code>[LSTM model for sentiment analysis](https://github.com/iriskin77/model_sent_analysis)</code>
+
++ The model is designed for sentiment analysis of commentaries
+
+![](https://img.shields.io/badge/Django-5.0-lightgreen) ![](https://img.shields.io/badge/Django_REST-3.14.0-lightgreen)
+
+#### <code>[Api (Django REST) for LSTM model](https://github.com/iriskin77/text_emotions)</code>
+
++ This API enables to use a number of endpoints to upload/download files for sentiments analysis using LSTM model
+
+### 4) Simple parsers:
+
+<code>![](https://img.shields.io/badge/Requests-2.31.0-blue)</code>
 
 #### <code>[Wildberries parser](https://github.com/iriskin77/wildberries_parser)</code>
 
 + The parser collects data about shirts
 
-<code>![](https://img.shields.io/badge/BeautifullSoup-4.12.2-blue) ![](https://img.shields.io/badge/Requests-2.31.0-blue)</code>
+<code>![](https://img.shields.io/badge/Requests-2.31.0-blue)</code>
 
 #### <code>[Metro parser](https://github.com/iriskin77/wildberries_parser)</code>
 
