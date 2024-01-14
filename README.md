@@ -18,15 +18,8 @@ Take a look at my latest projetcs.
 
 + The parsers collect data (articles) from such blogs as habr.com, mel.fm, tinkoff-journal. After that it is possinle to use the data via API.
 
-### 2) Parsers that work as a cli application:
 
-<code>![](https://img.shields.io/badge/Sqlalchemy-2.0.25-brown) ![](https://img.shields.io/badge/APScheduler-3.10.4-blue) ![](https://img.shields.io/badge/Selenium-4.16.0-blue) ![](https://img.shields.io/badge/Aiohttp-3.9.1-violet) ![](https://img.shields.io/badge/AsyncIO-3.4.3-violet)</code>
-
-#### <code>[News parser](https://github.com/iriskin77/y_p)</code>
-
-+ The parser collects news from yandex dzen and comsomolskaya pravda.
-
-### 3) NLP (natural learning processing), machine learning
+### 2) NLP (natural learning processing), machine learning
 
 ![](https://img.shields.io/badge/Keras-2.15.0-lightblue) ![](https://img.shields.io/badge/Pandas-2.1.4-white) ![](https://img.shields.io/badge/Pymystem3-0.2.0-yellow) 
 #### <code>[LSTM model for sentiment analysis](https://github.com/iriskin77/model_sent_analysis)</code>
@@ -40,7 +33,7 @@ Take a look at my latest projetcs.
 
 + This API enables to use a number of endpoints to upload/download files for sentiments analysis using LSTM model
 
-### 4) Simple parsers:
+### 3) Simple parsers:
 
 <code>![](https://img.shields.io/badge/Requests-2.31.0-blue)</code>
 
