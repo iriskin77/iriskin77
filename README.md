@@ -3,7 +3,7 @@
 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="" width="40" height="40"/> 
 
 - :wrench: I’m a Python backend developer,
-- :books: learning Go,
+- :books: learning FastApi, SqlAlchemy,
 - :ru: originally from Russia and live in Russia
 
 
