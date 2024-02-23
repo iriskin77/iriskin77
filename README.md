@@ -3,49 +3,85 @@
 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="" width="40" height="40"/> 
 
 - :wrench: I’m a Python backend developer,
-- :books: learning FastApi, SqlAlchemy,
+- :books: learning grpc and microservices,
 - :ru: originally from Russia and live in Russia
 
 
 Take a look at my latest projetcs.
 
+#### 1) Django/Django REST
 
-### 1) Api for parsers:
+#####  Api for parsers (Django REST):
 
 <code>![](https://img.shields.io/badge/Celery-5.3.6-green) ![](https://img.shields.io/badge/Redis-red) ![](https://img.shields.io/badge/Django-5.0-lightgreen) ![](https://img.shields.io/badge/Django_REST-3.14.0-lightgreen) ![](https://img.shields.io/badge/Aiohttp-3.9.1-violet) ![](https://img.shields.io/badge/AsyncIO-3.4.3-violet) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/DockerCompose-blue)</code> 
 
-#### <code>[Blog parsers with API (Django REST)](https://github.com/iriskin77/Drf_api_parsers)</code>
+ <code>[Blog parsers with API (Django REST)](https://github.com/iriskin77/Drf_api_parsers)</code>
 
 + The parsers collect data (articles) from such blogs as habr.com, mel.fm, tinkoff-journal. After that it is possinle to use the data via API.
 
+#####  Django CRUD:
 
-### 2) NLP (natural learning processing), machine learning
+![](https://img.shields.io/badge/Django-5.0-lightgreen) 
+
+ <code>[Django CRUD (No REST)](https://github.com/iriskin77/django_CRUD)</code>
+
+#####  Video converter (Django REST)
+
+![](https://img.shields.io/badge/Django_REST-3.14.0-lightgreen) ![](https://img.shields.io/badge/FFMPEG-mint) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/DockerCompose-blue)
+
+ <code>[Video converter](https://github.com/iriskin77/video_convert)</code>
+
+##### Sentiment analysis (Django REST)
 
 ![](https://img.shields.io/badge/Keras-2.15.0-lightblue) ![](https://img.shields.io/badge/Pandas-2.1.4-white) ![](https://img.shields.io/badge/Pymystem3-0.2.0-yellow) 
-#### <code>[LSTM model for sentiment analysis](https://github.com/iriskin77/model_sent_analysis)</code>
+ 
+ <code>[LSTM model for sentiment analysis](https://github.com/iriskin77/text_emotions)</code>
 
 + The model is designed for sentiment analysis of commentaries
 
-![](https://img.shields.io/badge/Django-5.0-lightgreen) ![](https://img.shields.io/badge/Django_REST-3.14.0-lightgreen) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/DockerCompose-blue)
+#### 2) FastApi, Sqlalchemy
+
+##### FastApi CRUD:
+
+![](https://img.shields.io/badge/FastApi-coral) ![](https://img.shields.io/badge/Sqlalchemy-2.0.25-crimson) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/DockerCompose-blue)
+
+<code>[FastApi CRUD](https://github.com/iriskin77/test_task)</code>
 
 
-#### <code>[Api (Django REST) for LSTM model](https://github.com/iriskin77/text_emotions)</code>
+##### FastApi - registration/authorization JWT service:
 
-+ This API enables to use a number of endpoints to upload/download files for sentiments analysis using LSTM model
+![](https://img.shields.io/badge/FastApi-coral) ![](https://img.shields.io/badge/Sqlalchemy-2.0.25-crimson) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/DockerCompose-blue)
 
-### 3) Simple parsers:
+<code>[FastApi registration/authorization](https://github.com/iriskin77/fast_api_blog)</code>
+
+
+#### 3) NLP (natural learning processing), machine learning
+
+![](https://img.shields.io/badge/Keras-2.15.0-lightblue) ![](https://img.shields.io/badge/Pymystem3-0.2.0-yellow) 
+##### <code>[LSTM model for sentiment analysis](https://github.com/iriskin77/model_sent_analysis)</code>
+
++ The model is designed for sentiment analysis of commentaries
+
+#### 4) Simple Parsers
 
 <code>![](https://img.shields.io/badge/Requests-2.31.0-blue)</code>
 
-#### <code>[Wildberries parser](https://github.com/iriskin77/wildberries_parser)</code>
+##### <code>[Wildberries parser](https://github.com/iriskin77/wildberries_parser)</code>
 
 + The parser collects data about shirts
 
 <code>![](https://img.shields.io/badge/Requests-2.31.0-blue)</code>
 
-#### <code>[Metro parser](https://github.com/iriskin77/wildberries_parser)</code>
+##### <code>[Metro parser](https://github.com/iriskin77/wildberries_parser)</code>
 
 + The parser collects data about sweets
+
+#### 5) in learning - grpc + FastApi
+
+![](https://img.shields.io/badge/grpcio-1.62.0-azure) ![](https://img.shields.io/badge/grpcio_tools-1.62.0-azure) ![](https://img.shields.io/badge/piccolo-1.3.0-lilac)
+
+##### <code>[simple grpc example](https://github.com/iriskin77/grpc_test_example)</code>
+
 
 
 
