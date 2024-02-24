@@ -25,12 +25,6 @@ Take a look at my latest projetcs.
 
  <code>[Django CRUD (No REST)](https://github.com/iriskin77/django_CRUD)</code>
 
-#####  Video converter (Django REST)
-
-![](https://img.shields.io/badge/Django_REST-3.14.0-lightgreen) ![](https://img.shields.io/badge/FFMPEG-mint) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/DockerCompose-blue)
-
- <code>[Video converter](https://github.com/iriskin77/video_convert)</code>
-
 ##### Sentiment analysis (Django REST)
 
 ![](https://img.shields.io/badge/Keras-2.15.0-lightblue) ![](https://img.shields.io/badge/Pandas-2.1.4-white) ![](https://img.shields.io/badge/Pymystem3-0.2.0-yellow) 
@@ -62,21 +56,8 @@ Take a look at my latest projetcs.
 
 + The model is designed for sentiment analysis of commentaries
 
-#### 4) Simple Parsers
 
-<code>![](https://img.shields.io/badge/Requests-2.31.0-blue)</code>
-
-##### <code>[Wildberries parser](https://github.com/iriskin77/wildberries_parser)</code>
-
-+ The parser collects data about shirts
-
-<code>![](https://img.shields.io/badge/Requests-2.31.0-blue)</code>
-
-##### <code>[Metro parser](https://github.com/iriskin77/wildberries_parser)</code>
-
-+ The parser collects data about sweets
-
-#### 5) in learning - grpc + FastApi
+#### 4) in learning - grpc + FastApi
 
 ![](https://img.shields.io/badge/grpcio-1.62.0-azure) ![](https://img.shields.io/badge/grpcio_tools-1.62.0-azure) ![](https://img.shields.io/badge/piccolo-1.3.0-lilac)
 
