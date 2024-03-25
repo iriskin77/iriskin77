@@ -20,7 +20,7 @@ Take a look at my latest projetcs.
 + The parsers collect data (articles) from such blogs as habr.com, mel.fm, tinkoff-journal. After that it is possinle to use the data via API.
 
 
-#### 2) FastApi, Sqlalchemy
+#### 2) FastApi
 
 ##### FastApi CRUD (Api for ML model):
 
