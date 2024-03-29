@@ -24,9 +24,15 @@ Take a look at my latest projetcs.
 
 ##### FastApi CRUD (Api for ML model):
 
-![](https://img.shields.io/badge/FastApi-coral) ![](https://img.shields.io/badge/PostgreSql-lightblue) ![](https://img.shields.io/badge/Tortoise-0.20.0-crimson) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/DockerCompose-blue)
+![](https://img.shields.io/badge/FastApi-coral) ![](https://img.shields.io/badge/PostgreSql-lightblue) ![](https://img.shields.io/badge/TortoiseORM-0.20.0-crimson) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/DockerCompose-blue)
 
 <code>[FastApi CRUD](https://github.com/iriskin77/api_lstm_model/)</code>
+
+##### another FastApi CRUD:
+
+![](https://img.shields.io/badge/FastApi-coral) ![](https://img.shields.io/badge/PostgreSql-lightblue) ![](https://img.shields.io/badge/TortoiseORM-0.20.0-crimson) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/DockerCompose-blue)
+
+<code>[FastApi CRUD](https://github.com/iriskin77/welbex/)</code>
 
 
 #### 3) Microservice: FastApi + grpc
