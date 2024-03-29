@@ -22,11 +22,11 @@ Take a look at my latest projetcs.
 
 #### 2) FastApi
 
-##### FastApi CRUD (Api for ML model):
+##### Api for ML model:
 
 ![](https://img.shields.io/badge/FastApi-coral) ![](https://img.shields.io/badge/PostgreSql-lightblue) ![](https://img.shields.io/badge/TortoiseORM-0.20.0-crimson) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/DockerCompose-blue)
 
-<code>[FastApi CRUD](https://github.com/iriskin77/api_lstm_model/)</code>
+<code>[Api for ML model](https://github.com/iriskin77/api_lstm_model/)</code>
 
 ##### another FastApi CRUD:
 
